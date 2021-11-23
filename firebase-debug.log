@@ -1,0 +1,13 @@
+[debug] [2021-11-23T14:59:58.620Z] ----------------------------------------------------------------------
+[debug] [2021-11-23T14:59:58.622Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\ASUS\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js deploy
+[debug] [2021-11-23T14:59:58.622Z] CLI Version:   9.23.0
+[debug] [2021-11-23T14:59:58.623Z] Platform:      win32
+[debug] [2021-11-23T14:59:58.623Z] Node Version:  v16.13.0
+[debug] [2021-11-23T14:59:58.624Z] Time:          Tue Nov 23 2021 21:59:58 GMT+0700 (Indochina Time)
+[debug] [2021-11-23T14:59:58.624Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2021-11-23T14:59:58.676Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2021-11-23T14:59:58.676Z] > authorizing via signed-in user (fachrul959@gmail.com)
+[debug] [2021-11-23T14:59:58.676Z] [iam] checking project photos-mdp for permissions ["firebase.projects.get","firebasehosting.sites.update"]
+[debug] [2021-11-23T14:59:58.678Z] >>> HTTP REQUEST POST https://cloudresourcemanager.googleapis.com/v1/projects/photos-mdp:testIamPermissions  
+ {"permissions":["firebase.projects.get","firebasehosting.sites.update"]}
