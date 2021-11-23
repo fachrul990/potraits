@@ -9,7 +9,6 @@ import DetailPage from './pages/DetailPage';
 import SearchPage from './pages/SearchPage';
 import ProfilePage from './pages/ProfilePage';
 import ProfileSetting from './pages/ProfileSetting';
-import LoginPage from './pages/LoginPage';
 
 import { useState, useEffect } from 'react';
 import axios from 'axios';

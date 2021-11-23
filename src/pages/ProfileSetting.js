@@ -1,10 +1,9 @@
 import React, { useState } from 'react';
-import { useNavigate, useLocation } from 'react-router';
+import { useNavigate } from 'react-router';
 import './ProfileSetting.css';
 
 function ProfileSetting({ setname, setnim }) {
 	const navigate = useNavigate();
-	const location = useLocation();
 	const [ nameInput, setNameInput ] = useState();
 	const [ nimInput, setNimInput ] = useState();
 	function getname(e) {
