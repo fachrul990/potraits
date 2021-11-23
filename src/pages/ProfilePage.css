@@ -1,0 +1,36 @@
+.wrapperProfile {
+	margin-bottom: 70px;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+.settingIconWrapper {
+	padding: 16px 20px;
+	display: flex;
+	justify-content: flex-end;
+}
+.settingIcon {
+	color: black;
+}
+.profileContainer {
+	border-radius: 50px;
+	width: 128px;
+	height: 128px;
+	padding-bottom: 16px;
+}
+
+.profileContainer > img {
+	width: 100%;
+	height: 100%;
+	border-radius: 50%;
+}
+.profileInfo > p {
+	font-family: Comfortaa;
+	font-style: normal;
+	font-weight: 300;
+	font-size: 25px;
+	line-height: 40px;
+	display: flex;
+	justify-content: center;
+	color: #000000;
+}

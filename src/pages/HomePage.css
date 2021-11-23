@@ -1,0 +1,13 @@
+.wrapperboard {
+	display: flex;
+	justify-content: center;
+	width: 100%;
+	margin-bottom: 63px;
+}
+
+.containerboard {
+	width: 100%;
+	padding: 0px 20px;
+	column-count: 2;
+	column-gap: 10px;
+}

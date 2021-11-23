@@ -1,0 +1,18 @@
+.wrapperpic {
+	display: inline-flex;
+}
+
+.containerpic {
+	display: flex;
+	align-items: center;
+	box-sizing: border-box;
+	width: 170px;
+	padding-bottom: 10px;
+}
+
+.containerpic > img {
+	display: flex;
+	width: 100%;
+	border-radius: 16px;
+	object-fit: cover;
+}

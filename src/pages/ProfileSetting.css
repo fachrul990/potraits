@@ -1,0 +1,42 @@
+.settingWrapper {
+	padding: 0px 20px;
+}
+.textInfo {
+	font-weight: 600;
+}
+.boxWrapper {
+	display: flex;
+}
+.boxInfo {
+	padding: 0px 10px;
+	margin: 14px 0px;
+	width: 100%;
+	display: flex;
+	font-size: 14px;
+	height: 32px;
+	border-radius: 5px;
+	border: 2px solid black;
+}
+.saveBtnWrapper {
+	margin: 14px 0px;
+	display: flex;
+	font-size: 14px;
+	height: 48px;
+	border-radius: 5px;
+	background-color: black;
+	justify-content: center;
+}
+.saveBtn {
+	text-decoration: none;
+	border: none;
+	display: flex;
+	align-items: center;
+	background-color: transparent;
+	color: white;
+	font-family: Roboto;
+	font-weight: 500;
+	font-size: 14px;
+	width: 100%;
+	cursor: pointer;
+	justify-content: center;
+}
