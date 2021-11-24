@@ -1,2 +1,2 @@
 # potraits
-TA PRAK MDP 2021
+Tugas Akhir Praktikum MDP 2021
